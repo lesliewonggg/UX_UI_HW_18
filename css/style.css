@@ -39,7 +39,7 @@ body {
 
 .container {
   position: absolute;
-  text-align: center;
+  text-align: justify;
   color: black;
   width: 1050px;
   height: 600px;
@@ -75,6 +75,7 @@ h2 {
 
 #gridContainer {
   margin: 0px 5%;
+  text-align: center;
   display: grid;
   grid-template-rows: 214px 214px;
   grid-template-columns: 1fr 1fr 1fr;
