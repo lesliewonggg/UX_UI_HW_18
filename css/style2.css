@@ -153,6 +153,7 @@ body {
   }
 
   @media only screen and (max-width: 600){
+
     #gridContainer {
         margin: 0px 5%;
         text-align: center;
