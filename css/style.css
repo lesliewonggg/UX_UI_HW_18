@@ -50,6 +50,15 @@ body {
   align-content: space-between;
 }
 
+.containertext {
+  width: 900px;
+  height: 600px;
+  position: fixed;
+  top: 50%;
+  left: 48%;
+  transform: translate(-50%, -50%);
+}
+
 .row {
   display: flex;
 }
