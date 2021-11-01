@@ -6,7 +6,7 @@ body {
     background-color: #EFEAF0;
     margin: 0 auto;
     text-align: center;
-    max-width: 1076px;
+    max-width: 650px;
   }
   
   .textbox {
@@ -139,7 +139,7 @@ body {
     position: absolute;
     bottom: 0;
     width: 100%;
-    width: 1076px;
+    width: 650px;
     height: 2.5rem;
     margin: 0 auto;
     font-size: 18px;
